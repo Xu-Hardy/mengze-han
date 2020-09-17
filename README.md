@@ -4,6 +4,11 @@
 MyHomePage: https://mengze-han.github.io/
 
 
+| 机器学习教程  | 深度学习教程 |
+| 计算机视觉    | 自然语言处理 |
+| 传统数据库   | 数据库      |
+| Docker      |  Git        |
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
