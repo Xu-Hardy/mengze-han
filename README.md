@@ -3,7 +3,7 @@
 
 MyHomePage: https://mengze-han.github.io/
 
-|      |      |      |
+| 数学  | 工具| 人工智能 |
 | ---- | ---- | ---- |
 |      |      |      |
 |      |      |      |
