@@ -21,6 +21,77 @@ MyHomePage: https://mengze-han.github.io/
 
 
 
+### 思绪捕捉
+
+生也有涯，知也无涯。但是还是有一颗爱折腾的心，先记录，以后慢慢折腾吧。
+
+
+
+
+
+#### 日语学习
+
+- [ ] Busuu
+- [ ] 简明日语
+- [ ] [lingualift](https://app.lingualift.com/)
+
+
+
+#### Linux
+
+- [ ] 自定制Arch Linux
+- [ ] 树莓派centos私服
+- [ ] 拿铁熊猫（m3顶配） + m.2 私人服务器
+- [ ] [openwrt培训](http://forgotfun.org/openwrt-training.html) youtube有试听
+- [ ] 过一遍慕课网Linux教程
+- [ ] 过一遍慕课网Docker教程
+
+
+
+
+
+#### 框架学习
+
+- [ ] Django
+- [ ] Vue
+- [ ] Mysql
+- [ ] Mongodb
+- [ ] Redies
+
+
+
+#### 外设
+
+- [ ] 客制化键盘
+- [ ] 同时操作多个电脑
+
+
+
+#### 私服
+
+- [ ] codecombat私服， docker搭建无法启动
+- [ ] freenas
+- [ ] Nextcloud
+- [ ] gitlab
+- [ ] docker
+- [ ] 电子书库
+- [ ] Kodi
+- [ ] exsi
+- [ ] unraid
+
+
+
+#### 零零碎碎
+
+- [ ] hexo 博客
+- [ ] 整合家庭私服
+- [ ] [L-ink card](https://github.com/peng-zhihui/L-ink_Card)
+- [ ] 小专栏写作
+- [ ] 《一个IT爱好者的自白》
+- [ ] 自己做PE（参考微软手册）
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
