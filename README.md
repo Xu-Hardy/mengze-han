@@ -89,6 +89,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] 小专栏写作
 - [ ] 《一个IT爱好者的自白》
 - [ ] 自己做PE（参考微软手册）
+- [ ] 手机刷入Mokee系统，刷入谷歌框架和Root包
 
 
 
