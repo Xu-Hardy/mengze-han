@@ -59,9 +59,8 @@ MyHomePage: https://mengze-han.github.io/
 
 ### 日语学习
 
-- [ ] 
-
 - [ ] Busuu
+
 - [ ] 简明日语
 - [ ] [lingualift](https://app.lingualift.com/)
 
