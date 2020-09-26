@@ -5,8 +5,23 @@
 
 MyHomePage: https://mengze-han.github.io/
 
-
 世俗生活固然必不可少，更重要的方式是平静心和气，以健康的方式做好每一天。
+
+
+
+### 生活方式
+
+#### 早餐：
+
+
+
+#### 晚餐：
+
+#### 睡眠规划
+
+#### 坚持冥想
+
+
 
 
 | 数学     | 计算机基础     | 人工智能     | 传统开发   | 数据库      | 工具     | 极客       |
@@ -44,11 +59,9 @@ MyHomePage: https://mengze-han.github.io/
 
 - [x] Android刷魔趣， 刷Google三件套和面具Root
 
-- [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
+- [ ] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
 
 - [ ] openvpn 异地组网
-
-- [x] Zerotier vlan
 
   
 
@@ -65,6 +78,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] 技巧
   - [ ] 学习之道
   - [ ] 如何读一本书
+  - [ ] 吃掉那只青蛙
 
 ### 日语学习
 
@@ -127,7 +141,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] 小专栏写作
 - [ ] 《一个IT爱好者的自白》
 - [ ] 自己做PE（参考微软手册）
-- [x] 手机刷入Mokee系统，刷入谷歌框架和Root包
+- [ ] 手机刷入Mokee系统，刷入谷歌框架和Root包
 - [ ] 写一些读书笔记
 
 
