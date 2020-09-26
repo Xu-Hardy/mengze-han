@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+牢记三的法则： 3个习惯，一周三次， 每次30分钟
+
 
 MyHomePage: https://mengze-han.github.io/
 
@@ -18,14 +20,37 @@ MyHomePage: https://mengze-han.github.io/
 
 
 
+### 日语监督
 
+
+### 电子产品构想
+
+- [x] Nuc8 MacOS 
+- [ ] Nuc8 备份三码，升级64G内存
+- [x] openwrt 日常使用
+- [ ] openwrt驱动开发。Youtube佐大培训
+- [ ] openwrt 使用x86工控机， Docker跑服务，可以用exsi和unraid
+- [x] Android刷魔趣， 刷Google三件套和面具Root
+- [ ] 制作多合一系统安装盘（不支持MacOS） 
+- [ ] openvpn 异地组网
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+### 健康生活
+
+
+
+### 练功
 
 
 ### 思绪捕捉
 
 生也有涯，知也无涯。但是还是有一颗爱折腾的心，先记录，以后慢慢折腾吧。
-
-
 
 
 
