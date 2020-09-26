@@ -38,7 +38,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] openwrt驱动开发。Youtube佐大培训
 - [ ] openwrt 使用x86工控机， Docker跑服务，可以用exsi和unraid
 - [x] Android刷魔趣， 刷Google三件套和面具Root
-- [ ] 制作多合一系统安装盘（不支持MacOS） 
+- [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
 - [ ] openvpn 异地组网
 
   
