@@ -30,7 +30,6 @@ MyHomePage: https://mengze-han.github.io/
 
 
 
-
 ### 电子产品构想
 
 - [x] Nuc8 MacOS 
@@ -41,12 +40,8 @@ MyHomePage: https://mengze-han.github.io/
 - [x] Android刷魔趣， 刷Google三件套和面具Root
 - [ ] 制作多合一系统安装盘（不支持MacOS） 
 - [ ] openvpn 异地组网
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
+  
 
 ### 预定书单
 
@@ -62,21 +57,17 @@ MyHomePage: https://mengze-han.github.io/
   - [ ] 学习之道
   - [ ] 如何读一本书
 
-- [ ] 
 
 
 ### 健康生活
 
-
-
 ### 练功
-
 
 ### 思绪捕捉
 
+- [ ] 
+
 生也有涯，知也无涯。但是还是有一颗爱折腾的心，先记录，以后慢慢折腾吧。
-
-
 
 #### 日语学习
 
