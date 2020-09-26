@@ -67,8 +67,6 @@ MyHomePage: https://mengze-han.github.io/
 
 - [ ] 
 
-生也有涯，知也无涯。但是还是有一颗爱折腾的心，先记录，以后慢慢折腾吧。
-
 #### 日语学习
 
 - [ ] Busuu
