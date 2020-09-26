@@ -33,13 +33,22 @@ MyHomePage: https://mengze-han.github.io/
 ### 电子产品构想
 
 - [x] Nuc8 MacOS 
+
 - [ ] Nuc8 备份三码，升级64G内存
+
 - [x] openwrt 日常使用
+
 - [ ] openwrt驱动开发。Youtube佐大培训
+
 - [ ] openwrt 使用x86工控机， Docker跑服务，可以用exsi和unraid
+
 - [x] Android刷魔趣， 刷Google三件套和面具Root
+
 - [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
+
 - [ ] openvpn 异地组网
+
+- [x] Zerotier vlan
 
   
 
