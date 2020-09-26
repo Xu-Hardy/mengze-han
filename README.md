@@ -21,8 +21,8 @@ MyHomePage: https://mengze-han.github.io/
 
 
 
-
 ### 日语监督（Busuu）
+
 - [ ]   2020/11/14  A1（N5）
 - [ ]   2021/01/16  A2（N4 - N3）
 - [ ]   2021/03/20  B2（N3 - N2）
@@ -48,13 +48,20 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] 
 - [ ] 
 
-
 ### 预定书单
-- [ ] 西藏生死书
-- [ ] 学习之道
-- [ ] 苏东坡传
-- [ ] 计算机科学精粹
-- [ ] 
+
+- [ ] 文学
+  - [ ] 西藏生死书
+  - [ ] 苏东坡传
+  - [ ] 庄子
+    - [ ] 正式时候读庄子
+    - [ ] 庄子从心开始
+- [ ] IT
+  - [ ] 计算机科学精粹
+- [ ] 技巧
+  - [ ] 学习之道
+  - [ ] 如何读一本书
+
 - [ ] 
 
 
@@ -83,7 +90,7 @@ MyHomePage: https://mengze-han.github.io/
 
 - [ ] 自定制Arch Linux
 - [ ] 树莓派centos私服
-- [ ] 拿铁熊猫（m3顶配） + m.2 私人服务器
+- [ ] 拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）
 - [ ] [openwrt培训](http://forgotfun.org/openwrt-training.html) youtube有试听
 - [ ] 过一遍慕课网Linux教程
 - [ ] 过一遍慕课网Docker教程
