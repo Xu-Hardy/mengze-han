@@ -20,7 +20,7 @@ MyHomePage: https://mengze-han.github.io/
 #### 旁晚：
 
 1. 看书
-   1. 复盘
+2. 复盘
 
 #### 睡眠规划
 
