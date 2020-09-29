@@ -9,6 +9,15 @@ MyHomePage: https://mengze-han.github.io/
 
 
 
+### 阅读清单
+- [x] 睡眠革命
+- [ ] 关键20小时
+- [x] 图解http
+- [ ] 深入浅出统计学
+- [ ] 深入浅出数据分析
+- [ ] Django
+
+
 ### 生活方式
 
 #### 清晨：
