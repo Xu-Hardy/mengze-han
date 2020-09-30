@@ -69,11 +69,11 @@ MyHomePage: https://mengze-han.github.io/
 
 - [ ] openwrt驱动开发。Youtube佐大培训
 
-- [ ] openwrt 使用x86工控机， Docker跑服务，可以用exsi和unraid
+- [ ] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE
 
 - [x] Android刷魔趣， 刷Google三件套和面具Root
 
-- [ ] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
+- [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
 
 - [ ] openvpn 异地组网
 
@@ -85,8 +85,8 @@ MyHomePage: https://mengze-han.github.io/
   - [ ] 西藏生死书
   - [ ] 苏东坡传
   - [ ] 庄子
-    - [ ] 正式时候读庄子
-    - [ ] 庄子从心开始
+  - [ ] 正式时候读庄子
+  - [ ] 庄子从心开始
 - [ ] IT
   - [ ] 计算机科学精粹
 - [ ] 技巧
@@ -107,7 +107,7 @@ MyHomePage: https://mengze-han.github.io/
 
 - [ ] 自定制Arch Linux
 - [ ] 树莓派centos私服
-- [ ] 拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）
+- [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）
 - [ ] [openwrt培训](http://forgotfun.org/openwrt-training.html) youtube有试听
 - [ ] 过一遍慕课网Linux教程
 - [ ] 过一遍慕课网Docker教程
