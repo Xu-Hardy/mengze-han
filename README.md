@@ -11,7 +11,7 @@ MyHomePage: https://mengze-han.github.io/
 
 ### 阅读清单
 - [x] 睡眠革命
-- [ ] 关键20小时
+- [x] 关键20小时
 - [x] 图解http
 - [ ] 深入浅出统计学
 - [ ] 深入浅出数据分析
@@ -129,13 +129,13 @@ MyHomePage: https://mengze-han.github.io/
 #### 外设
 
 - [ ] 客制化键盘
-- [ ] 同时操作多个电脑
+- [x] ~~同时操作多个电脑~~ 使用slider bar，不需要多个电脑了
 
 
 
 #### 私服
 
-- [ ] codecombat私服， docker搭建无法启动
+- [x] ~~codecombat私服， docker搭建无法启动~~
 - [ ] freenas
 - [ ] Nextcloud
 - [ ] gitlab
@@ -155,7 +155,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] 小专栏写作
 - [ ] 《一个IT爱好者的自白》
 - [ ] 自己做PE（参考微软手册）
-- [ ] 手机刷入Mokee系统，刷入谷歌框架和Root包
+- [X] 手机刷入Mokee系统，刷入谷歌框架和Root包  （小米max已经成功  巨爽）
 - [ ] 写一些读书笔记
 
 
