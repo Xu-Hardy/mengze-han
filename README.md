@@ -78,6 +78,9 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] [lingualift](https://app.lingualift.com/)
 
 
+- [ ] [俄语](http://www.languagemetropolis.com/Product.aspx)
+
+
 
 #### Linux
 
