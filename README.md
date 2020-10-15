@@ -73,20 +73,19 @@ MyHomePage: https://mengze-han.github.io/
 ### 日语学习
 
 - [ ] Busuu
-
 - [ ] 简明日语
 - [ ] [lingualift](https://app.lingualift.com/)
 
 
-- [ ] [俄语](http://www.languagemetropolis.com/Product.aspx)
+- [ ] [俄语](http://www.languagemetropolis.com/Product.aspx) 性价比很高的学习的俄语的网站，看需要吧
 
 
 
 #### Linux
 
 - [ ] 自定制Arch Linux
-- [ ] 树莓派centos私服
-- [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）
+- [x] ~~树莓派centos私服~~
+- [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）～～
 - [ ] [openwrt培训](http://forgotfun.org/openwrt-training.html) youtube有试听
 - [ ] 过一遍慕课网Linux教程
 - [ ] 过一遍慕课网Docker教程
@@ -107,13 +106,14 @@ MyHomePage: https://mengze-han.github.io/
 
 #### 外设
 
-- [ ] 客制化键盘
+- [ ] 客制化键盘  （可以自己改个电路板，使用罗技的sdk就可以接入app了）另外，客制化很烧钱的好么
 - [x] ~~同时操作多个电脑~~ 使用slider bar，不需要多个电脑了
 
 
 
 #### 私服
-
+本来是是想建立在树莓派上的，但是由于arm和x86的某些docker不能兼容，自己造轮子也也耽误事。
+软路由想直接上i7 万all in one，但是现有条件只能拿pc凑合下了
 - [x] ~~codecombat私服， docker搭建无法启动~~
 - [ ] freenas
 - [ ] Nextcloud
@@ -133,7 +133,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] [L-ink card](https://github.com/peng-zhihui/L-ink_Card)
 - [ ] 小专栏写作
 - [ ] 《一个IT爱好者的自白》
-- [ ] 自己做PE（参考微软手册）
+- [x] 自己做PE（参考微软手册）有了多合一系统盘了, 可以克服
 - [X] 手机刷入Mokee系统，刷入谷歌框架和Root包  （小米max已经成功  巨爽）
 - [ ] 写一些读书笔记
 
