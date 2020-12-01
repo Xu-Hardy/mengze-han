@@ -61,7 +61,7 @@ MyHomePage: https://mengze-han.github.io/
  - [x] ikuai  openwrt双软路由
  - [ ] openwrt驱动开发。Youtube佐大培训  [openwrt培训](http://forgotfun.org/openwrt-training.html)
  - [x] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE(暂时用了wm家的exsi，还有配套app)
- - [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）～～
+ - [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点~~
  - [ ] 树莓派exsi
  
 #### 私服
