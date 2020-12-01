@@ -52,11 +52,16 @@ MyHomePage: https://mengze-han.github.io/
 
 ### 电子产品构想
 
-- [x] Nuc8 MacOS 
+#### 黑苹果
 
-- [ ] Nuc8 备份三码，升级64G内存
+  - [x] Nuc8 MacOS 
+  - [x] ~~升级64G内存~~, 先升级了32G
+  - [ ] Nuc8 备份三码，
 
-- [x] openwrt 日常使用
+#### 原生安卓
+
+#### 软路由
+  - [x] openwrt 日常使用
 
 - [ ] openwrt驱动开发。Youtube佐大培训
 
