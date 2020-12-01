@@ -34,7 +34,7 @@ MyHomePage: https://mengze-han.github.io/
 | 微积分   | 计算机网络     | 机器学习     | Django     | MySQL       | Markdown | [Hexo](https://mengze-han.github.io/)       |
 | 线性代数 | 计算机组成原理 | 深度学习     | 微信小程序 | Postgre SQL | Latex    | Gitbook    |
 | 概率统计 | 操作系统       | 自然语言处理 |            | Mongodb     | Linux    | 自建私有云 |
-|          | 数据结构与算法 | 计算机视觉   |            | Neo4j       | Docker   |            |
+|          | 数据结构与算法 | 计算机视觉   |            | Neo4j       | Docker   |  Vuepress |
 |          |                | 无人驾驶     |            |             | Git      |            |
 |          |                | 数据分析     |            |             |          |            |
 |          |                |              |            |             |          |            |
@@ -58,10 +58,11 @@ MyHomePage: https://mengze-han.github.io/
   - [ ] 9008 救砖
 
 #### 软路由
- - [x] openwrt 日常使用
+ - [x] ikuai  openwrt双软路由
  - [ ] openwrt驱动开发。Youtube佐大培训  [openwrt培训](http://forgotfun.org/openwrt-training.html)
  - [x] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE(暂时用了wm家的exsi，还有配套app)
  - [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）～～
+ - [ ] 树莓派exsi
  
 #### 私服
 本来是是想建立在树莓派上的，但是由于arm和x86的某些docker不能兼容，自己造轮子也也耽误事。
