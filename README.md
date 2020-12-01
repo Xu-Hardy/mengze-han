@@ -106,13 +106,16 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] [L-ink card](https://github.com/peng-zhihui/L-ink_Card)
 - [x] 自己做PE（参考微软手册）有了多合一系统盘了, 可以克服
 - [ ] wimbuiler 制作pe，还有微软的教程
-- [ ] 客制化键盘  （可以自己改个电路板，使用罗技的sdk就可以接入app了）另外，客制化很烧钱的好么
+- [ ] 客制化键盘  （可以自己改个电路板，使用罗技的sdk就可以接入app了）另外，客制化很烧钱的好么,树脂键帽
 - [x] ~~同时操作多个电脑~~ 使用随航，不需要多个电脑了
 - [ ] 自定制Arch Linux
 - [x] ~~树莓派centos私服~~
 - [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
 - [ ] openvpn 异地组网
 - [x] ~~搭建ss panel ， 这个项目凉了好像~~
+- [ ] bitnami
+- [ ] 宝塔面板
+- [ ] zabbix
 - [ ] 自己的家庭管理系统
     - [ ] docker docker-compose
         - [ ] mediawiki
@@ -125,6 +128,8 @@ MyHomePage: https://mengze-han.github.io/
         - [ ] neo4j 
         - [ ] dnsmasq
         - [ ] openvpn 
+        - [x] netdata
+        - [x] portainer
 - [ ] 自制电子宠物，接入家庭管理系统
 
 
