@@ -77,7 +77,6 @@ MyHomePage: https://mengze-han.github.io/
 ### 外语学习
 
 - [ ] Busuu
-  ### 日语监督（Busuu）
   - [ ]   2020/11/14  A1（N5）
   - [ ]   2021/01/16  A2（N4 - N3）
   - [ ]   2021/03/20  B2（N3 - N2）
@@ -114,6 +113,20 @@ MyHomePage: https://mengze-han.github.io/
 - [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
 - [ ] openvpn 异地组网
 - [x] ~~搭建ss panel ， 这个项目凉了好像~~
+- [ ] 自己的家庭管理系统
+    - [ ] docker docker-compose
+        - [ ] mediawiki
+        - [ ] wordpress
+        - [ ] Anaconda
+        - [ ] nginx
+        - [ ] mysql
+        - [ ] postgre
+        - [ ] mongodb
+        - [ ] neo4j 
+        - [ ] dnsmasq
+        - [ ] openvpn 
+- [ ] 自制电子宠物，接入家庭管理系统
+
 
 
 
