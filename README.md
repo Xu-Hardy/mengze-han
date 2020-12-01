@@ -41,12 +41,7 @@ MyHomePage: https://mengze-han.github.io/
 
 
 
-### 日语监督（Busuu）
 
-- [ ]   2020/11/14  A1（N5）
-- [ ]   2021/01/16  A2（N4 - N3）
-- [ ]   2021/03/20  B2（N3 - N2）
-- [ ]   2021/05/22  B2（N2 - N1）
 
 
 
@@ -58,64 +53,16 @@ MyHomePage: https://mengze-han.github.io/
   - [x] ~~升级64G内存~~, 先升级了32G
   - [ ] Nuc8 备份三码，
 
-#### 原生安卓
+#### 安卓刷机
+  - [x] Android刷魔趣， 刷Google三件套和面具Root（小米8和小米mi）
+  - [ ] 9008 救砖
 
 #### 软路由
-  - [x] openwrt 日常使用
-
-- [ ] openwrt驱动开发。Youtube佐大培训
-
-- [ ] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE
-
-- [x] Android刷魔趣， 刷Google三件套和面具Root
-
-- [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
-
-- [ ] openvpn 异地组网
-
-  
-
-### 日语学习
-
-- [ ] Busuu
-- [ ] 简明日语
-- [ ] [lingualift](https://app.lingualift.com/)
-
-
-- [ ] [俄语](http://www.languagemetropolis.com/Product.aspx) 性价比很高的学习的俄语的网站，看需要吧
-
-
-
-#### Linux
-
-- [ ] 自定制Arch Linux
-- [x] ~~树莓派centos私服~~
-- [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）～～
-- [ ] [openwrt培训](http://forgotfun.org/openwrt-training.html) youtube有试听
-- [ ] 过一遍慕课网Linux教程
-- [ ] 过一遍慕课网Docker教程
-
-
-
-
-
-#### 框架学习
-
-- [ ] Django
-- [ ] Vue
-- [ ] Mysql
-- [ ] Mongodb
-- [ ] Redies
-
-
-
-#### 外设
-
-- [ ] 客制化键盘  （可以自己改个电路板，使用罗技的sdk就可以接入app了）另外，客制化很烧钱的好么
-- [x] ~~同时操作多个电脑~~ 使用slider bar，不需要多个电脑了
-
-
-
+ - [x] openwrt 日常使用
+ - [ ] openwrt驱动开发。Youtube佐大培训  [openwrt培训](http://forgotfun.org/openwrt-training.html)
+ - [x] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE(暂时用了wm家的exsi，还有配套app)
+ - [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点）～～
+ 
 #### 私服
 本来是是想建立在树莓派上的，但是由于arm和x86的某些docker不能兼容，自己造轮子也也耽误事。
 软路由想直接上i7 万all in one，但是现有条件只能拿pc凑合下了
@@ -125,22 +72,48 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] gitlab
 - [x] docker
 - [ ] 电子书库
-- [ ] Kodi
-- [ ] exsi
-- [ ] unraid
+- [ ] Kodi  
+
+### 外语学习
+
+- [ ] Busuu
+  ### 日语监督（Busuu）
+  - [ ]   2020/11/14  A1（N5）
+  - [ ]   2021/01/16  A2（N4 - N3）
+  - [ ]   2021/03/20  B2（N3 - N2）
+  - [ ]   2021/05/22  B2（N2 - N1）
+- [ ] 简明日语
+- [ ] [lingualift](https://app.lingualift.com/)
+- [ ] [俄语](http://www.languagemetropolis.com/Product.aspx) 性价比很高的学习的俄语的网站，看需要吧
 
 
+#### 程序员的修养
 
+- [ ] Django
+- [ ] Vue
+- [ ] Mysql
+- [ ] Mongodb
+- [ ] Redies
+
+
+#### 写作
+
+  - [ ] hexo 博客
+  - [ ] 小专栏写作
+  - [ ] 《一个IT爱好者的自白》
+  - [ ] 写一些读书笔记
 #### 零零碎碎
 
-- [ ] hexo 博客
-- [ ] 整合家庭私服
 - [ ] [L-ink card](https://github.com/peng-zhihui/L-ink_Card)
-- [ ] 小专栏写作
-- [ ] 《一个IT爱好者的自白》
 - [x] 自己做PE（参考微软手册）有了多合一系统盘了, 可以克服
-- [X] 手机刷入Mokee系统，刷入谷歌框架和Root包  （小米max已经成功  巨爽）
-- [ ] 写一些读书笔记
+- [ ] wimbuiler 制作pe，还有微软的教程
+- [ ] 客制化键盘  （可以自己改个电路板，使用罗技的sdk就可以接入app了）另外，客制化很烧钱的好么
+- [x] ~~同时操作多个电脑~~ 使用随航，不需要多个电脑了
+- [ ] 自定制Arch Linux
+- [x] ~~树莓派centos私服~~
+- [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
+- [ ] openvpn 异地组网
+- [x] ~~搭建ss panel ， 这个项目凉了好像~~
 
 
 
