@@ -131,6 +131,7 @@ MyHomePage: https://mengze-han.github.io/
         - [ ] openvpn 
         - [x] netdata
         - [x] portainer
+        - [ ] Piwigo
 - [ ] 自制电子宠物，接入家庭管理系统
 
 
