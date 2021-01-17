@@ -59,6 +59,7 @@ MyHomePage: https://mengze-han.github.io/
 
 #### 软路由
  - [x] ikuai  openwrt双软路由
+ - [x] 自己编译openwrt
  - [ ] openwrt驱动开发。Youtube佐大培训  [openwrt培训](http://forgotfun.org/openwrt-training.html)
  - [x] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE(暂时用了wm家的exsi，还有配套app)
  - [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点~~
@@ -68,12 +69,14 @@ MyHomePage: https://mengze-han.github.io/
 本来是是想建立在树莓派上的，但是由于arm和x86的某些docker不能兼容，自己造轮子也也耽误事。
 软路由想直接上i7 万all in one，但是现有条件只能拿pc凑合下了
 - [x] ~~codecombat私服， docker搭建无法启动~~
-- [ ] freenas
-- [ ] Nextcloud
-- [ ] gitlab
+- [x] freenas
+- [x] Nextcloud
+- [x] gitlab
 - [x] docker
 - [ ] 电子书库
 - [ ] Kodi  
+- [x] WIZ
+- [x] emby
 
 ### 外语学习
 
@@ -112,7 +115,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] 自定制Arch Linux
 - [x] ~~树莓派centos私服~~
 - [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
-- [ ] openvpn 异地组网
+- [x] openvpn 异地组网
 - [x] ~~搭建ss panel ， 这个项目凉了好像~~
 - [ ] bitnami
 - [ ] 宝塔面板
