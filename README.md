@@ -55,8 +55,15 @@ MyHomePage: https://mengze-han.github.io/
 
 #### 安卓刷机
   - [x] Android刷魔趣， 刷Google三件套和面具Root（小米8和小米mi）
-  - [ ] 9008 救砖
+  - [x] 9008 救砖
 
+#### 矿渣斐讯
+  - [x] 斐讯T1 电视盒子
+  - [x] 斐讯K2 Openwrt
+  - [x] 斐讯K2 老毛子
+  - [x] 斐讯K3 梅林固件
+  - [ ] 斐讯N1
+   
 #### 软路由
  - [x] ikuai  openwrt双软路由
  - [x] 自己编译openwrt
@@ -124,7 +131,7 @@ MyHomePage: https://mengze-han.github.io/
     - [ ] docker docker-compose
         - [ ] mediawiki
         - [ ] wordpress
-        - [ ] Anaconda
+        - [x] Anaconda
         - [ ] nginx
         - [ ] mysql
         - [ ] postgre
