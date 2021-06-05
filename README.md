@@ -51,7 +51,7 @@ MyHomePage: https://mengze-han.github.io/
 
   - [x] Nuc8 MacOS 
   - [x] ~~升级64G内存~~, 先升级了32G
-  - [ ] Nuc8 备份三码，
+  - [x] Nuc8 备份三码， 搞了三码迁移工具
 
 #### 安卓刷机
   - [x] Android刷魔趣， 刷Google三件套和面具Root（小米8和小米mi）
@@ -62,7 +62,7 @@ MyHomePage: https://mengze-han.github.io/
   - [x] 斐讯K2 Openwrt
   - [x] 斐讯K2 老毛子
   - [x] 斐讯K3 梅林固件
-  - [ ] 斐讯N1
+  - [x] 斐讯N1
    
 #### 软路由
  - [x] ikuai  openwrt双软路由
@@ -100,7 +100,7 @@ MyHomePage: https://mengze-han.github.io/
 #### 程序员的修养
 
 - [ ] Django
-- [ ] Vue
+- [x] Vue
 - [ ] Mysql
 - [ ] Mongodb
 - [ ] Redies
