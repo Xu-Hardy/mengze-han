@@ -33,7 +33,7 @@ MyHomePage: https://mengze-han.github.io/
 | -------- | -------------- | ------------ | ---------- | ----------- | -------- | ---------- |
 | 微积分   | 计算机网络     | 机器学习     | Django     | MySQL       | Markdown | [Hexo](https://mengze-han.github.io/)       |
 | 线性代数 | 计算机组成原理 | 深度学习     | 微信小程序 | Postgre SQL | Latex    | Gitbook    |
-| 概率统计 | 操作系统       | 自然语言处理 |            | Mongodb     | Linux    | 自建私有云 |
+| 概率统计 | 操作系统       | 自然语言处理 |    SpringBoot   | Mongodb     | Linux    | 自建私有云 |
 |          | 数据结构与算法 | 计算机视觉   |            | Neo4j       | Docker   |  Vuepress |
 |          |                | 无人驾驶     |            |             | Git      |            |
 |          |                | 数据分析     |            |             |          |            |
@@ -70,7 +70,7 @@ MyHomePage: https://mengze-han.github.io/
  - [ ] openwrt驱动开发。Youtube佐大培训  [openwrt培训](http://forgotfun.org/openwrt-training.html)
  - [x] openwrt 使用x86工控机， Docker跑服务，可以用exsi、unraid或者PVE(暂时用了wm家的exsi，还有配套app)
  - [x] ~~拿铁熊猫（m3顶配） + m.2 私人服务器 （貌似工控更合适一点~~
- - [ ] 树莓派exsi
+ - [ ] ~~树莓派exsi,没有arm版本~~
  
 #### 私服
 本来是是想建立在树莓派上的，但是由于arm和x86的某些docker不能兼容，自己造轮子也也耽误事。
@@ -103,12 +103,12 @@ MyHomePage: https://mengze-han.github.io/
 - [x] Vue
 - [ ] Mysql
 - [ ] Mongodb
-- [ ] Redies
+- [ ] Redis
 
 
 #### 写作
 
-  - [ ] hexo 博客
+  - [x] hexo 博客
   - [ ] 小专栏写作
   - [ ] 《一个IT爱好者的自白》
   - [ ] 写一些读书笔记
@@ -119,7 +119,7 @@ MyHomePage: https://mengze-han.github.io/
 - [ ] wimbuiler 制作pe，还有微软的教程
 - [ ] 客制化键盘  （可以自己改个电路板，使用罗技的sdk就可以接入app了）另外，客制化很烧钱的好么,树脂键帽
 - [x] ~~同时操作多个电脑~~ 使用随航，不需要多个电脑了
-- [ ] 自定制Arch Linux
+- [x] 自定制Arch Linux
 - [x] ~~树莓派centos私服~~
 - [x] 制作多合一系统安装盘. Ventoy（不支持MacOS） 
 - [x] openvpn 异地组网
